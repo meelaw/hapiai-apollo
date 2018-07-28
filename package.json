@@ -1,0 +1,22 @@
+{
+  "name": "hapiai",
+  "version": "1.0.0",
+  "description": "Hapi Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hapiai"
+  },
+  "keywords": [
+    "hapi",
+    "apollo"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.2"
+  }
+}
